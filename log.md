@@ -6,11 +6,14 @@
 
 # 100 days of code - Log
 ## Day 1: July 19 (Sunday)
-**Today's Progress**: 
+**Today's Progress**: I build a markdown editor for the free code camp full stack certificated. I build it with html, css and js (React). I also build a small Figma design before doing it on the css.
 
-**Thoughts**: 
+**Thoughts**:  I really enjoyed testing a Figma before committing to a design it was really nice having an idea of what I want the site to look like before doing the code. It's  new habit I might pick up.  This project wasn't a challenge to be honest it was pretty easy to do overall but I liked working on the design.  
 
-**Link to work**: 
+**Link to work**: [Codepen of full project](https://codepen.io/mariailg/full/abdPoby)
+
+**Figma Design**
+![Diseño previo en Figma](Day%201/Design.png)
 
 ## Day 2: July 19 (Monday)
 **Today's Progress**: 
