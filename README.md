@@ -6,7 +6,7 @@
 
 Thanks for reading checking! I hope I can do and learn a lot in the process! 😃
 
-I wil be also keeping a **Log** of my thought and feelings of the day you can check it here: ()
+I wil be also keeping a **Log** of my thought and feelings of the day you can check it here: [Progress Log](https://github.com/milg15/100-days-of-code/blob/master/log.md)
 # Overview
 
 | Day | Project | Description | Language | Status | Link | Log |
@@ -113,4 +113,4 @@ I wil be also keeping a **Log** of my thought and feelings of the day you can ch
 | 100 |         |             |          |        |      |     |
 
 
-I Would like to also thanks to [Seshan Pillay](https://github.com/SeshanPillay25/100-days-of-code) because I based the desing of this log to his table of progress on their page.
+I would like to also thanks to [Seshan Pillay](https://github.com/SeshanPillay25/100-days-of-code) because I based the desing of this log to his table of progress on their page.
