@@ -5,14 +5,14 @@
 
 
 # 100 days of code - Log
-## Day 1: July 19, 2020
+## Day 1: July 19 (Sunday)
 **Today's Progress**: 
 
 **Thoughts**: 
 
 **Link to work**: 
 
-## Day 1: June 27, Monday
+## Day 2: July 19 (Monday)
 **Today's Progress**: 
 
 **Thoughts**: 
