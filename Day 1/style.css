@@ -1,0 +1,63 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    color: #55432B;
+  }
+  
+  #root {
+    background: #D4EEED;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    background-image: url(https://i.ibb.co/hmrjBbt/kisspng-pineapple-paper-pattern-vector-pineapple-tree-5a94eda3287c34-1472061615197096031658.png);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  
+  .container{
+    max-height: 500px;
+    height: 100%;
+    background: #F9EB5D;
+    border: 2px solid #55432B;
+    display: flex;
+    flex-direction: column;
+    border-radius: 2.5px;
+  }
+  
+  #editor{
+      width: 350px;
+      height: 95%;
+    border: 0;
+    resize: none;
+  }
+  #preview{
+        width: 700px;
+    padding: 0px 10px;
+    overflow-y: scroll;
+    height: 95%;
+  }
+  
+  img{
+    width: 100%;
+  }
+  
+  header{
+    max-width: 100%;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    background-color:#F4A32B;
+    border-bottom: 2px solid #55432B;
+   border-top-left-radius:     2px;
+  border-top-right-radius:    2px;
+    font-size: 18px;
+    font-weight: 700;
+  }
+  header .icon{
+    width: 30px;
+    height: 30px;
+    margin: 0;
+    padding-right: 10px;
+  }
+  
