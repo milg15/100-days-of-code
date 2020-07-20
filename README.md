@@ -2,7 +2,7 @@
 - I'm starting this challenge on July 19, 2020.
 - I will mostly be doing the challenges of free code camp. I would like to finish must of the project in the curriculum.
 - I will be working with Python projects and Web dev projects. 
-- I will try to also track my progress in my instagram accoung [thavscode](https://www.instagram.com/thavcodes/)
+- I will try to also track my progress in my instagram account [thavscode](https://www.instagram.com/thavcodes/)
 
 Thanks for reading checking! I hope I can do and learn a lot in the process! 😃
 
