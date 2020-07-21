@@ -16,8 +16,9 @@
 ![Diseño previo en Figma](Day%201/Design.png)
 
 ## Day 2: July 19 (Monday)
-**Today's Progress**: 
+**Today's Progress**:  Continuing with FCC I finished today with the Drum Machine challenge of the certificated but I'm not happy with the design it already has all the functionalities but in the coming weeks I might work on the css. So I'll say i just did HTML and JS (React).
 
-**Thoughts**: 
+**Thoughts**: I'm a bit tired. I worked today coding and the got straight to this. I'll try to take a break at least on weekdays and maybe light exercises in between my back is in a bit of pain. 
 
-**Link to work**: 
+**Link to work**: [Codepen of full project](https://codepen.io/mariailg/full/jOWXOge)
+

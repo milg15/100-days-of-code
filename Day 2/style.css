@@ -1,0 +1,28 @@
+html, body{
+    margin: 0;
+    height: 100%;
+      display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50%;
+  }
+  #drum-machine{
+    height: 100%;
+    display: grid;
+    background-color: #FAF0CA;
+    grid-template-columns: repeat(3, 1fr);
+  }
+  #display{
+    align-self: center;
+    font-size: 32px;
+  }
+  
+  .drum-pad{
+    width: 150px;
+    height: 150px;
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }

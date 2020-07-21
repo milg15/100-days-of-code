@@ -11,8 +11,8 @@ I wil be also keeping a **Log** of my thought and feelings of the day you can ch
 
 | Day | Project | Description | Language | Status | Link | Log |
 |:---:|:-------:|-------------|----------|--------|------|:---:|
-|   1   | Markdown Editor | FCC challenge | React/Css | Completed | [Codepen](https://codepen.io/mariailg/full/abdPoby) |[Day 1](https://github.com/milg15/100-days-of-code/blob/master/log.md#day-1-july-19-sunday)|
-|  2  |         |             |          |        |      |     |
+|   1   | Markdown Editor | FCC challenge - Full Stack Certificated | React/Css | Completed | [Codepen](https://codepen.io/mariailg/full/abdPoby) |[Day 1](https://github.com/milg15/100-days-of-code/blob/master/log.md#day-1-july-19-sunday)|
+|  2  |Drum Machine|FCC challenge - Full Stack Certificated|React|Completed|[Codepen](https://codepen.io/mariailg/full/jOWXOge)|     |
 |  3  |         |             |          |        |      |     |
 |  4  |         |             |          |        |      |     |
 |  5  |         |             |          |        |      |     |
