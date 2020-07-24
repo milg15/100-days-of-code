@@ -22,21 +22,21 @@
 
 **Link to work**: [Codepen of full project](https://codepen.io/mariailg/full/OJMdMoE)
 
-## Day 3: July 19 (Tuesday)
+## Day 3: July 20 (Tuesday)
 **Today's Progress**:  I started to build the calculator only created the basic components in react didn't add any styles yet.
 
 **Thoughts**: This day I actually only coded one hour XD. That's why I didn't get a lot done. I've been coding more than an hour but I'll try to stay motivated even if it's just one hour.
 
 **Link to work**: [Codepen of full project](https://codepen.io/mariailg/full/wgGVVX)
 
-## Day 4: July 19 (Wednesday)
+## Day 4: July 21 (Wednesday)
 **Today's Progress**:  So I cheated today. I didn't do any great ammount of coding today outside the one I do at work but I created a post for my tech and coding related account on instagram about PHP and that took me like two hours 😅 so I'll say I did something coding related.
 
 **Thoughts**: I played videogames and created this post soo... I need to figure out how to keep doing what I lke without stopping this project. We are just at the beginning cutie pie.
 
 **Link to work**: [Instagram](https://www.instagram.com/p/CC9lpjoDmC0/)
 
-## Day 5: July 19 (Thursday)
+## Day 5: July 22 (Thursday)
 **Today's Progress**:  So today I continued with the calculator and I added the funtionalities. It can read a string of numbers and captures the simbols to operate so I only have to do the operations and show the results. 
 
 **Thoughts**: Css is a tad annoying xd I was excited at first but right now I just want it to work. I'm not sure if I'll add any special style or just something basic. I'm thinking to have a week were I only do css and ass style to all the project I did xd.
