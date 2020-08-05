@@ -42,3 +42,10 @@
 **Thoughts**: Css is a tad annoying xd I was excited at first but right now I just want it to work. I'm not sure if I'll add any special style or just something basic. I'm thinking to have a week were I only do css and ass style to all the project I did xd.
 
 **Link to work**: [Codepen of full project](https://codepen.io/mariailg/full/wgGVVX)
+
+## Day 6: August 4 (Tuesday)
+**Today's Progress**:  I worked with AWS Lambda to work a fun thing <3 (Build a Serverless Web Application)[https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/]. 
+
+**Thoughts**: I had to delete everything because of cost but I had tons of fun learning about this. I want to keep learning more about cloud computing and the way AWS makes this easier is quite surprising.  
+
+**Link to work**: [Github of HTML/CSS/JS](https://github.com/milg15/Unicorns-AWS-Serverless-)
